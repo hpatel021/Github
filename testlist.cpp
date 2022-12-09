@@ -38,7 +38,7 @@ cout << "**end of test " << numberOfItems << ", part 2 ***" << endl;
 int main()
 {
 // Here change test value from 26 to 2
-for (int test = 2; test >= 0; --test)
+for (int test = 26; test >= 0; --test)
 {
 testList(test);
 }
